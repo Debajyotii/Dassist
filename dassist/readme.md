@@ -1,11 +1,12 @@
-This project is created for a Springboot basic app. 
+# Demo Simple SprnigBoot app.
+This project is set up using a basic Spring Boot application downloaded from https://start.spring.io/, providing a foundation for further development.
 
-Technologies: 
+**Technologies:**
 
-**Java**: 17,
+Java Version: 17
 
-**Build Type**: Maven
+Build Tool: Maven
 
-**Spring boot version**: 3.3.2
+Spring Boot Version: 3.3.2
 
-**Date**: 8-10-2024
+Date: August 10, 2024
